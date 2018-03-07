@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleSignatureDemo</string>
+    <string name="msg_save_succ">存檔成功</string>
+</resources>
