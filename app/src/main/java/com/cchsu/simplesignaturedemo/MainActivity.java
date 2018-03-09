@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean mDeniedStorageAccess = false;
     private String GIT_STRING = "Hello, Git";  // For Git Demo only
     private String GIT_STRING_1 = "Hello, Git 1";  // For Git Demo only
+    private String GIT_STRING_2 = "Hello, Git 2";  // For Git Demo only
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
