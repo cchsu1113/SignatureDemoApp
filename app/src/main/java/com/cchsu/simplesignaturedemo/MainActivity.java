@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private String GIT_STRING_1 = "Hello, Git 1";  // For Git Demo only
     private String GIT_STRING_2 = "Hello, Git 2";  // For Git Demo only
 
-    private String ADD_GIT_STRING_3 = "Hello, Add Git 3";  // For Git Demo only
+    private String ADD_GIT_STRING_3 = "Hello, Add Git 4";  // For Git Demo only
 
 
     @Override
